@@ -1,13 +1,13 @@
 # 💻 Disciplina de Introdução a Computação - Biologia
 
-Este repositório contém os materiais da disciplina **Informática** para o curso de Biologia.
+Este repositório contém os materiais da disciplina **Introdução a Computação** para o curso de Biologia.
 
 ---
 
 ## 📚 Aulas e Materiais
 
 ### Aula 1 - Introdução à Informática e Excel
-- 📎 Slides: [Aula 1%Apresentacao_Excel.pdf](Aula%1_Apresentacao_Excel.pdf)
+- 📎 Slides: [Aula 1 Apresentacao_Excel.pdf](Aula%1_Apresentacao_Excel.pdf)
 - 📎 Exercícios: [Exercícios_Aula1.docx](Exercicios_Questoes_Biologia.docx)
 
 ### Aula 2
