@@ -7,7 +7,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 ## 📚 Aulas e Materiais
 
 ### Aula 1 - Introdução à Informática e Excel
-- 📎 Slides: [Aula_1_Apresentação_e_Introducao_Excel_.pptx](Aula_1_Apresentação_e_Introducao_Excel_.pptx)
+- 📎 Slides: [Aula 1_Apresentacao_Excel.pdf](Aula 1_Apresentacao_Excel.pdf)
 - 📎 Exercícios: [Exercícios_Aula1.docx](Exercicios_Questoes_Biologia.docx)
 
 ### Aula 2
