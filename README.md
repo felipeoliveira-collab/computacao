@@ -12,7 +12,7 @@ Este repositório contém os materiais da disciplina **Introdução a Computaç�
 
 ### Aula 2
 - 📎 Slides: *(a ser adicionado)*
-- 📎 Exercícios: *(a ser adicionado)*
+- 📎 Exercícios: [Planilha_com_Erros.xls](Encontre_e_corrija_os_erros.xls)
 
 ### Aula 3 - Prova
 - 📎 Prova: *(a ser adicionada)*
