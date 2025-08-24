@@ -11,12 +11,11 @@ Este repositório contém os materiais da disciplina **Introdução a Computaç�
 - 📎 Exercícios: [Exercícios_Aula1.docx](Exercicios_Questoes_Biologia.docx)
 
 ### Aula 2
-- 📎 Slides: *(a ser adicionado)*
 - 📎 Exercícios: [Planilha_com_Erros.xlsx](Encontre_e_corrija_os_erros.xlsx)
 - 📚 Simulado para a prova: <https://forms.gle/VrotDTT133aZ6mFK6>
 
 ### Aula 3 - Prova
-- 📎 Prova: *(a ser adicionada)*
+- 📎 Prova: *(Dia 26/08)*
 
 ### Aula 4
 - 📎 Slides: *(a ser adicionado)*
