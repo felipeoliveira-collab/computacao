@@ -14,9 +14,9 @@ Este repositório contém os materiais da disciplina **Introdução a Computaç�
 - 📎 Exercícios: [Planilha_com_Erros.xlsx](Encontre_e_corrija_os_erros.xlsx)
 - 📚 Simulado para a prova: <https://forms.gle/VrotDTT133aZ6mFK6>
 
-### Aula 3 - Prova
-- 📎 Prova: *(Dia 26/08)*
-- Link: <https://forms.gle/ZGxqnkcPH9qf9Akr8>
+### Aula 3 - Atividade Word
+- 📎 Prova: *(Dia 19/03)*
+- atividades_word_Biologia_ufpb.docx: <atividades_word_Biologia_ufpb.docx>
 
 ### Aula 4
 - 📎 Slides: *(a ser adicionado)*
