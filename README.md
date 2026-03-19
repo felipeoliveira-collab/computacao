@@ -16,7 +16,7 @@ Este repositório contém os materiais da disciplina **Introdução a Computaç�
 
 ### Aula 3 - Atividade Word
 - 📎 Prova: *(Dia 19/03)*
-- atividades_word_Biologia_ufpb.docx: <atividades_word_Biologia_ufpb.docx>
+- [atividades_word_Biologia_ufpb.docx](atividades_word_Biologia_ufpb.docx>)
 
 ### Aula 4
 - 📎 Slides: *(a ser adicionado)*
